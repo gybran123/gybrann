@@ -1,0 +1,17 @@
+[
+{"type":"header","version":"5.1.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"gybran"},
+{"type":"table","name":"bola","database":"gybran","data":
+[
+{"id":"1","no":"1","name":"Gybran Kalmando","birth_date":"2003-05-15","position":"Pemaju Handal","international":"Indonesia","team":"SpeedFC"},
+{"id":"2","no":"2","name":"William Saliba","birth_date":"2001-03-24","position":"Defender","international":"France","team":"Arsenal"},
+{"id":"3","no":"4","name":"William Saliba","birth_date":"2001-03-24","position":"Defender","international":"France","team":"Arsenal"},
+{"id":"4","no":"5","name":"William Saliba","birth_date":"2001-03-24","position":"Defender","international":"France","team":"Arsenal"},
+{"id":"5","no":"6","name":"William Saliba","birth_date":"2001-03-24","position":"Defender","international":"France","team":"Arsenal"},
+{"id":"6","no":"7","name":"William Saliba","birth_date":"2001-03-24","position":"Defender","international":"France","team":"Arsenal"},
+{"id":"7","no":"8","name":"William Saliba","birth_date":"2001-03-24","position":"Defender","international":"France","team":"Arsenal"},
+{"id":"8","no":"9","name":"William Saliba","birth_date":"2001-03-24","position":"Defender","international":"France","team":"Arsenal"},
+{"id":"9","no":"10","name":"William Saliba","birth_date":"2001-03-24","position":"Defender","international":"France","team":"Arsenal"}
+]
+}
+]
